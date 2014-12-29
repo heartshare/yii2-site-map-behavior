@@ -1,0 +1,19 @@
+{
+  "name": "hanterrian/yii2-site-map-behavior",
+  "description": "Port of the yii-auto-sitemap for yii",
+  "type": "yii2-extension",
+  "authors": [
+    {
+      "name": "Hanterrian",
+      "email": "hanterrian@gmail.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "sitemap": "/"
+    }
+  },
+  "require": {
+    "yiisoft/yii2": "*"
+  }
+}
